@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Book\AddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation\Notification\AddNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Book\Publisher\AddPublisher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report\AddReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report\AddReportType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation\AddReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Book\BackBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Book\BookUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Employee\EmployeeOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Employee\EmployeeSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Book\Loan\LoanBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Book\Loan\LoanTrackingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Admin\ManagementSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Member\MemberOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Member\MemberRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Member\MemberSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Member\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation\ReservationTrackingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Admin\ShowAllUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
